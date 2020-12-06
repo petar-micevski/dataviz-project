@@ -1,4 +1,6 @@
-# Exploring a Chess Dataset using Ggplot, Dplyr, and more
-This is my first attempt of using Ggplot and Dplyr to extract information using EDA
+# How to think like a Grandmaster
+This is my first attempt of using Ggplot and Dplyr to extract information using EDA from one of my favorite hobbies: Chess.
+Below are some of the summaries of my project. For a more in depth look, please look into the R Markdown File attached to this repository.
 
-Hello, my name is Petar. This is my first attempt at learning Github in order to further my knowledge and skills in Data Science. Hope I can commit this from my branch to main!
+Thanks!
+Petar Micevski
